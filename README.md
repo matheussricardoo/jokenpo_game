@@ -52,4 +52,10 @@ python jokenpo.py
   </a>
 </div>
 
+### 📄 License | Licença
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6347&height=120&section=footer"/> </div> 
